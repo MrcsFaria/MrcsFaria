@@ -2,7 +2,7 @@
 
 ## Olá, Meu Nome é Marcos Faria
 <div>
-  <a href="https://linkedin.com/in/https://br.linkedin.com/in/marcos-vinicius-faria-124266186" target="_blank"><img height="35" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/marcos-vinicius-faria-124266186" target="_blank"><img height="35" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:marcos.vfaria1@senacsp.edu.br" ><img height="35" width="120" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
